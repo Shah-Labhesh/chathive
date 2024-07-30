@@ -11,8 +11,14 @@ ChatHive is a modern messaging app built with Flutter and Firebase. It features 
 
 ## Screenshots
 
-![Light Theme](assets/screenshots/light_theme.png)
-![Dark Theme](assets/screenshots/dark_theme.png)
+![Splash](assets/screenshots/splash.jpg)
+
+![Light Theme](assets/screenshots/login_light.jpg)
+![Light Theme](assets/screenshots/user_list_light.jpg)
+![Light Theme](assets/screenshots/messaging_light.jpg)
+![Dark Theme](assets/screenshots/login_dark.jpg)
+![Dark Theme](assets/screenshots/user_list_dark.jpg)
+![Dark Theme](assets/screenshots/messaging_dark.jpg)
 
 ## Installation
 
